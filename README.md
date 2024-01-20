@@ -1,2 +1,3 @@
-# ITTechSmith_CSharpExamples
-Example code 
+# ITTechSmith C# Examples
+
+ Centralized repo for use with educational examples. 
